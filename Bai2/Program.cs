@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -71,14 +71,74 @@ namespace Bai2
 
             Console.WriteLine("Bài 10: Nhập một số bất kỳ và hiển thị số bằng chữ tương ứng trong C#");
             Console.WriteLine("----------- ");
-            Console.Write("Nhập một số bất kỳ");
-            intSo = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Nhập một số từ 0 đến 999.999.999.999:");
+            long lngSo = long.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Số {lngSo} bằng chữ: {Doisothanhchu(lngSo)}");
+            Console.WriteLine();
 
             Console.ReadLine();
 
+        }
 
+        static string Doisothanhchu(long lgnSo)
+        {
+            string[]  lopso= { "tỷ", "triệu", "nghìn" };
+            int[] hang = new[] { 1000000000, 1000000, 1000 };
+            string strReturn = "";
+            int intgroupSo = 0;
+
+            if (lgnSo == 0) {
+                return "không";
+            }
+            
+            for (int i = 0;i<hang.Length; i++)
+            {
+                intgroupSo =(int)(lgnSo / hang[i]);
+                if (intgroupSo>0)
+                {
+                    strReturn += TenMotlop3ChuSo(intgroupSo) + " " + lopso[i] + " ";
+                    lgnSo %= hang[i];
+                }
+            }
+            if (lgnSo>0) strReturn += TenMotlop3ChuSo(lgnSo);
+            return strReturn;
 
         }
+        static string TenMotlop3ChuSo(long lgnSo)
+        {
+            string[] tenso = new[] { "không", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám", "chín" };
+            string[] tenhang = new[] {"trăm", "mười" ,""};
+            int[] hang = new[] { 100,10,1 };
+            string strReturn = "";
+            int intChuSo = 0;
+
+            if (lgnSo < 10)
+                strReturn = tenso[lgnSo];
+            else if (lgnSo <20)
+                strReturn = tenhang[1] + tenso[lgnSo-10];
+            else
+            {
+                for (int i = 0;i<tenhang.Length; i++)
+                {
+                    intChuSo = (int)(lgnSo / hang[i]);
+                    if (intChuSo>0)
+                    {
+                        strReturn += tenso[intChuSo] + " " + tenhang[i] + " ";
+                        lgnSo %= hang[i];
+                    }
+                    else
+                    {
+                        if (i == 1) strReturn += "lẻ ";
+                    }
+                }
+            }
+
+            return strReturn;
+        }
+
+
         static void NhapMangSoNguyen(ref int[] intNhap)
         {
             for (int i = 0; i < intNhap.Length; i++)
