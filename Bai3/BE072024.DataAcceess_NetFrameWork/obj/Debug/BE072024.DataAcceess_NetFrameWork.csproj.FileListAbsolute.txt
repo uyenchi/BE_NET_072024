@@ -1,0 +1,6 @@
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\bin\Debug\BE072024.DataAcceess_NetFrameWork.dll
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\bin\Debug\BE072024.DataAcceess_NetFrameWork.pdb
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\obj\Debug\BE072024.DataAcceess_NetFrameWork.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\obj\Debug\BE072024.DataAcceess_NetFrameWork.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\obj\Debug\BE072024.DataAcceess_NetFrameWork.dll
+D:\Projects\BE_NET_072024\Bai3\BE072024.DataAcceess_NetFrameWork\obj\Debug\BE072024.DataAcceess_NetFrameWork.pdb

@@ -1,0 +1,10 @@
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\bin\Debug\BE_07.ConsoleApp.exe.config
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\bin\Debug\BE_07.ConsoleApp.exe
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\bin\Debug\BE_07.ConsoleApp.pdb
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\bin\Debug\BE072024.DataAcceess_NetFrameWork.dll
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\bin\Debug\BE072024.DataAcceess_NetFrameWork.pdb
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\obj\Debug\BE_07.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\obj\Debug\BE_07.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\obj\Debug\BE_07.Co.988945F5.Up2Date
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\obj\Debug\BE_07.ConsoleApp.exe
+D:\Projects\BE_NET_072024\Bai3\BE_07.ConsoleApp\obj\Debug\BE_07.ConsoleApp.pdb
