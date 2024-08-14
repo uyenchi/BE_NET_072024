@@ -1,0 +1,6 @@
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\bin\Debug\BE072024.Common.dll
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\bin\Debug\BE072024.Common.pdb
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\obj\Debug\BE072024.Common.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\obj\Debug\BE072024.Common.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\obj\Debug\BE072024.Common.dll
+D:\Projects\BE_NET_072024\Bai7\BE072024.Common\obj\Debug\BE072024.Common.pdb

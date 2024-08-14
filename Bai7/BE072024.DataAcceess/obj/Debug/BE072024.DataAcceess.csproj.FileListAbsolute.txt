@@ -1,0 +1,9 @@
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\bin\Debug\BE072024.DataAcceess.dll
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\bin\Debug\BE072024.DataAcceess.pdb
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\obj\Debug\BE072024.DataAcceess.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\obj\Debug\BE072024.DataAcceess.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\obj\Debug\BE072024.DataAcceess.dll
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\obj\Debug\BE072024.DataAcceess.pdb
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\bin\Debug\BE072024.Common.dll
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\bin\Debug\BE072024.Common.pdb
+D:\Projects\BE_NET_072024\Bai7\BE072024.DataAcceess\obj\Debug\BE072024.1102BE03.Up2Date
