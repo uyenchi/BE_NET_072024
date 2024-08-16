@@ -1,0 +1,6 @@
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\obj\Debug\BE_NET072024DataAccess.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\obj\Debug\BE_NET072024DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\bin\Debug\BE_NET072024DataAccess.dll
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\bin\Debug\BE_NET072024DataAccess.pdb
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\obj\Debug\BE_NET072024DataAccess.dll
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024DataAccess\obj\Debug\BE_NET072024DataAccess.pdb

@@ -1,0 +1,10 @@
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\bin\Debug\BE_NET072024ConsoleApp.exe.config
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\bin\Debug\BE_NET072024ConsoleApp.exe
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\bin\Debug\BE_NET072024ConsoleApp.pdb
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\obj\Debug\BE_NET072024ConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\obj\Debug\BE_NET072024ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\obj\Debug\BE_NET072024ConsoleApp.exe
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\obj\Debug\BE_NET072024ConsoleApp.pdb
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\bin\Debug\BE_NET072024DataAccess.dll
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\bin\Debug\BE_NET072024DataAccess.pdb
+D:\Projects\BE_NET_072024\Bai8\BE_NET072024ConsoleApp\obj\Debug\BE_NET07.91755AB6.Up2Date
